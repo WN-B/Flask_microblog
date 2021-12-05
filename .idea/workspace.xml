@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61566f18-7402-432f-a684-d1128a221c9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microblog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="wulin" />
       </list>
     </option>
   </component>
@@ -48,6 +48,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="743" y="343" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1638745968992">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="743" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.1025@0.25.1680.1025" timestamp="1638745968992" />
+    <state x="666" y="308" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1638745926495">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="666" y="308" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1638745926495" />
     <state x="526" y="173" key="SettingsEditor" timestamp="1638742096100">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
