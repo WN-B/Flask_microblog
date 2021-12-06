@@ -1,10 +1,19 @@
 env local : conda activate py39
 
-```FLASK_APP=microblog.py```
+```
+FLASK_APP=microblog.py
+```
 
-```flask run```
+```
+flask run
+```
 
-####
-```flask db init``` : create the migration repository for microblog
+####Database####
 
-```flask db migrate``` ： generate automatic migrations
+Database : SQLite
+
+`flask db init` : create the migration repository for microblog
+
+`flask db migrate -m "comments"` ： generate a new database migration
+
+`flask db upgrade` : apply the migration to the database
