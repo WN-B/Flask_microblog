@@ -1,10 +1,10 @@
 env local : conda activate py39
 
-```
+```python
 FLASK_APP=microblog.py
 ```
 
-```
+```python
 flask run
 ```
 
